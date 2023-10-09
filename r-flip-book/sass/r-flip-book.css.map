@@ -1,8 +1,10 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,AAAA,YAAY,CAAA;EACR,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,QAAQ;EAClB,QAAQ,EAAE,MAAM;CACnB;;ACLD,AAAA,YAAY;AACZ,eAAe,CAAC;EACZ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,QAAQ;CACrB;;AAED,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,wBAAwB;EACpC,WAAW,EAAE,IAAI;EACjB,GAAG,EAAE,CAAC;EACN,IAAI,EAAE,CAAC;CAEV",
     "sources": [
-        "r-flip-book.scss"
+        "r-flip-book.scss",
+        "layout/_book.scss",
+        "layout/_page.scss"
     ],
     "names": [],
     "file": "r-flip-book.css"

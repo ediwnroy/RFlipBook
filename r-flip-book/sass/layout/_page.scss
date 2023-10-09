@@ -1,0 +1,20 @@
+.r-book-page,
+.r-page-content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.r-book-page {
+    z-index: 0;
+    transition: opacity 20ms ease-in-out;
+    user-select: none;
+    top: 0;
+    left: 0;
+    // overflow: hidden;
+}
+
+.r-page-content {
+    // clip: auto;
+    // -webkit-backface-visibility: hidden;
+}

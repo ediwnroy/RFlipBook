@@ -1,7 +1,10 @@
 
-(function(){
-var flipBook = new RFlipBook();
+(function () {
+    var flipBook = new RFlipBook(document.getElementById("my-flip-book"), {
 
-flipBook.init();
+
+    });
+
+    flipBook.init();
 
 })();
